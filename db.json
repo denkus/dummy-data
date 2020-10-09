@@ -1,5 +1,5 @@
 {
-    "appFunc": {
+    "app-func": {
         "data": [
             {
                 "id": 1,
@@ -36,7 +36,7 @@
         "groupCount": -1,
         "summary": null
     },
-    "orgFunc": {
+    "org-func": {
         "data": [
             {
                 "id": 1,
@@ -47,6 +47,43 @@
                 "id": 2,
                 "name": "Заявки факт",
                 "nameEng": "OrderFact"
+            }
+        ],
+        "totalCount": -1,
+        "groupCount": -1,
+        "summary": null
+    },
+    "roles": {
+        "data": [
+            {
+                "id": 1,
+                "name": "Dispatcher",
+                "caption": "Диспетчер",
+                "note": null
+            },
+            {
+                "id": 2,
+                "name": "OutsideOrg",
+                "caption": "Сторонняя организация",
+                "note": "за пределами Компании"
+            },
+            {
+                "id": 3,
+                "name": "Supervisor",
+                "caption": "Проверяющий",
+                "note": null
+            },
+            {
+                "id": 4,
+                "name": "AdminT",
+                "caption": "Администратор Т",
+                "note": null
+            },
+            {
+                "id": 5,
+                "name": "Admin",
+                "caption": "Администратор ИС",
+                "note": "полный доступ"
             }
         ],
         "totalCount": -1,
