@@ -1,0 +1,56 @@
+{
+    "appFunc": {
+        "data": [
+            {
+                "id": 1,
+                "name": "Заявки план",
+                "nameEng": "OrderPlan"
+            },
+            {
+                "id": 2,
+                "name": "Планирование",
+                "nameEng": "OrderPlanning"
+            },
+            {
+                "id": 3,
+                "name": "Заявки факт",
+                "nameEng": "OrderFact"
+            },
+            {
+                "id": 5,
+                "name": "Рейсы - Вертолет",
+                "nameEng": "TripsHelicopter"
+            },
+            {
+                "id": 6,
+                "name": "Рейсы - Автобус",
+                "nameEng": "TripsBus"
+            },
+            {
+                "id": 4,
+                "name": "Рейсы - Самолет",
+                "nameEng": "TripsPlane"
+            }
+        ],
+        "totalCount": -1,
+        "groupCount": -1,
+        "summary": null
+    },
+    "orgFunc": {
+        "data": [
+            {
+                "id": 1,
+                "name": "Заявки план",
+                "nameEng": "OrderPlan"
+            },
+            {
+                "id": 2,
+                "name": "Заявки факт",
+                "nameEng": "OrderFact"
+            }
+        ],
+        "totalCount": -1,
+        "groupCount": -1,
+        "summary": null
+    }
+}
