@@ -89,5 +89,39 @@
         "totalCount": -1,
         "groupCount": -1,
         "summary": null
-    }
+    },
+    "roles/1/app-func": [
+        {
+            "roleId": 1,
+            "functionId": 3,
+            "functionName": "Заявки факт",
+            "functionNameEng": "OrderFact",
+            "read": "true",
+            "write": "false"
+        },
+        {
+            "roleId": 1,
+            "functionId": 4,
+            "functionName": "Рейсы - Самолет",
+            "functionNameEng": "TripsPlane",
+            "read": "true",
+            "write": "true"
+        },        
+        {
+            "roleId": 1,
+            "functionId": 5,
+            "functionName": "Рейсы - Вертолет",
+            "functionNameEng": "TripsHelicopter",
+            "read": "false",
+            "write": "false"
+        },
+        {
+            "roleId": 1,
+            "functionId": 6,
+            "functionName": "Рейсы - Автобус",
+            "functionNameEng": "TripsBus",
+            "read": "true",
+            "write": "true"
+        }
+    ]
 }
